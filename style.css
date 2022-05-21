@@ -1,0 +1,9 @@
+/* style.css */
+
+h1 {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+  }
